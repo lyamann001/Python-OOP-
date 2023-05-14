@@ -3,6 +3,8 @@ Object Oriented Programmingin Python
 What is the structure of object-oriented programming?
 
 [Lab17 includes the Structures of OOP](https://github.com/lyamann001/Python-OOP-/blob/main/Lab_17.py)
+
+
 The structure, or building blocks, of object-oriented programming include the following:
 
 1.Classes are user-defined data types that act as the blueprint for individual objects, attributes and methods.
